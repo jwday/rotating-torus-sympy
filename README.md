@@ -1,4 +1,4 @@
-# Rotating Torus in Free Space with Time-Varying Mass Distribution
+# Rotating Torus with Time-Varying Mass Distribution
 This project was a quarter-long final project in UC Davis's MAE 233 'Multi-body Dynamics' graduate course, where we were introduced to Kane's Method of dynmic modeling and SymPy (Symbolic Python) to apply this method to an exercise of our choosing. My interest in long-duration space travel led me to explore the dynamics of a theoretical space station design which utilizes rotation as a means of simulating gravity through centrifugal force, i.e. Space Station V from Stanley Kubrick's "2001: A Space Odyssey".
 
 ![2001 Station](https://i.stack.imgur.com/43Kvi.gif)
